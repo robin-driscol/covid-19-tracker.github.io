@@ -1,4 +1,4 @@
-### Minimal Covid-19 tracker
+## Minimal Covid-19 tracker
 
 #This is a single page application made using Vue-js to track covid-19 cases worldwide and has a options to select specific country cases.
 
