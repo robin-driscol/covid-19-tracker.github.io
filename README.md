@@ -1,4 +1,4 @@
-# covid-tracker
+# Minimal Covid-19 tracker
 
 ## Project setup
 ```
@@ -14,6 +14,8 @@ npm run serve
 ```
 npm run build
 ```
+
+#This is a single page application made using Vue-js to track covid-19 cases worldwide and has a options to select specific country cases.
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
